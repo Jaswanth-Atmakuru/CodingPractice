@@ -26,7 +26,15 @@ The purpose of this project is to strengthen problem-solving skills and understa
 ---
 
 ## ▶️ How to Run the Code
+ 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/sriharigaddam966-web/dsa-using-java.git
-  
+git clone https://github.com/sriharigaddam966-web/dsa-using-java.git
+
+2. Go inside the project folder:
+cd dsa-using-java
+
+3. Compile the Java file:
+javac FileName.java
+
+4. Run the program:
+java FileName
