@@ -28,5 +28,4 @@ The purpose of this project is to strengthen problem-solving skills and understa
 ## ▶️ How to Run the Code
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sriharigaddam966-web/dsa-using-java.git# dsa-using-java
-Java implementation of Data Structures and Algorithms
+   git clone https://github.com/sriharigaddam966-web/dsa-using-java.git
